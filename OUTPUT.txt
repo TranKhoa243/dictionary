@@ -1,0 +1,27 @@
+,
+banana,qua chuoi
+cat,con meo
+gang,bang nhom
+dog,con cho
+apple,qua tao
+yard,san
+uncle,chu
+finger,ngon tay
+idiot,ke ngoc
+teeth,ham rang
+love,tinh yeu
+queen,nu hoang
+zone,vung
+pirate,cuop bien
+kingdom,vuong quoc
+happy,vui ve
+number,con so
+elephant,con voi
+vintage,co dien
+monkey,con khi
+woment,dan ba
+odalisque,mui huong
+student,hoc sinh
+request,yeu cau
+journey,hanh trinh
+xanthous,tu thien
